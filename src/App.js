@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
-import Photo from './Photo';
-
+import Photo from './components/Photo';
+import NotFound from './components/NotFound';
 
 function App() {
   return (
